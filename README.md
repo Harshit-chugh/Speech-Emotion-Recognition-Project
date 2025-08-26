@@ -1,4 +1,4 @@
-# Speech-Emotion-Recognition
+# Speech-Emotion-Recognition-Project
 
 
 Speech emotion recognition is a challenging task in the field of machine learning. In this study, we propose a deep learning-based approach for speech emotion recognition using convolutional neural networks (CNNs).
